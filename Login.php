@@ -40,7 +40,7 @@
 <html>
    
    <head>
-      <title>Login Page</title>
+      <title>Login Page Test</title>
       
       <style type = "text/css">
          body {
